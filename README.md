@@ -1,5 +1,5 @@
 ### Date created
-Wdnesday, 6th November 2019
+Wednesday, 6th November 2019
 
 ### Udacity Project - Version Control
 
