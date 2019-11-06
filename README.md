@@ -4,7 +4,7 @@ Wednesday, 6th November 2019
 ### Udacity Project - Version Control
 
 ### Description
-Udacity project to practice version control
+Udacity project to practice version control by uploading python file to github
 
 ### Files used
 - .csv
